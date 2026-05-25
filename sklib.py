@@ -1,9 +1,5 @@
-"""Library for the Terminator Robot.
+"""Library for the Skynet Robot.
 
-This module exposes motor-control helpers and a simple distance IPC server.
-
-The hardware (GPIO) objects are lazily initialized, so importing this module alone
-does not open GPIO pins. Call `init_motors()` and/or `init_sonar()` as needed.
 """
 
 import threading

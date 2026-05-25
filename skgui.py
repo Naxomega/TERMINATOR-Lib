@@ -6,7 +6,7 @@ import numpy as np
 import time
 from picamera2 import Picamera2
 from tkinter import IntVar
-import terminatorlib as tlib
+import sklib as tlib
 import random
 from gpiozero import DistanceSensor
 

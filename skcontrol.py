@@ -1,4 +1,4 @@
-import terminatorlib as tlib
+import sklib as tlib
 import pygame
 from time import sleep
 
